@@ -1,0 +1,15 @@
+/* Navbar Submenu Styles */
+.group:hover .group-hover\\:flex {
+    display: flex;
+}
+
+.group-hover\\:flex {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: black;
+}
+
+.group-hover\\:flex .border-t {
+    border-top: 1px solid #707070; /* Grey color for the border */
+}
