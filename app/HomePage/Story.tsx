@@ -266,17 +266,17 @@ const Story: React.FC = () => {
         ref={ref}
         className={`py-40 mx-auto max-w-[1000px] transition-opacity duration-500 ease-out ${isVisible ? 'animate-fadeInDown' : 'opacity-0'}`}
       >
-        <div className=" w-[90%] sm:w-full mx-auto flex flex-col sm:flex-row gap-20 sm:gap-0 justify-between text-2xl uppercase text-[#626262]">
-          <a href="/Wedding" className="relative transition-colors duration-300 hover:text-white group pb-2">
-            Brand Partnerships
+        <div className=" w-[90%] sm:w-full  mx-auto flex flex-col sm:flex-row gap-20 sm:gap-0 justify-between text-2xl uppercase text-[#626262]">
+          <a href="/about-us#founders" className="relative transition-colors duration-300 hover:text-white group pb-2">
+            About Sumit
             <span className="absolute bottom-0 left-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover:w-full group-hover:bg-white"></span>
           </a>
-          <a href="/Corporates" className="relative transition-colors duration-300 hover:text-white group pb-2">
-            Brand Partnerships
+          <a href="/about-us#celebrities" className="relative transition-colors duration-300 hover:text-white group pb-2">
+            Celebrities
             <span className="absolute bottom-0 left-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover:w-full group-hover:bg-white"></span>
           </a>
-          <a href="/retail-space" className="relative transition-colors duration-300 hover:text-white group pb-2">
-            Brand Partnerships
+          <a href="/about-us#testimonials" className="relative transition-colors duration-300 hover:text-white group pb-2">
+            Testimonials
             <span className="absolute bottom-0 left-0 w-0 h-[2px] bg-black transition-all duration-300 group-hover:w-full group-hover:bg-white"></span>
           </a>
         </div>

@@ -49,12 +49,12 @@ const Footer: React.FC = () => {
                     <div className="mr-8">
 
                         <ul className="list-none p-0 m-0">
-                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab] "><a href="/about-us   ">About</a></li>
+                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab] "><a href="/about-us   ">About Us</a></li>
+                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/Wedding">Celebrities</a></li>
+                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/about-us">Brand Endorsement</a></li>
                             <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/Wedding">Weddings</a></li>
-                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/Corporates">Corporate</a></li>
-                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/retail-space">Retail Space</a></li>
-                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/sustainability">Sustainability</a></li>
-                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/Other">Get in Touch</a></li>
+                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/Corporates">Corporates</a></li>
+                            <li className="mb-1 pb-0 pt-4 nav jost-uniquifier text-[#ababab]"><a href="/contact-us">Get in Touch</a></li>
                         </ul>
                     </div>
 

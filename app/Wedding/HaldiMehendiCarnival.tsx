@@ -118,8 +118,6 @@
 // }
 
 // export default HaldiMehendiCarnival;
-
-
 "use client";
 
 import React, { useEffect, useRef } from 'react';
@@ -198,7 +196,7 @@ const HaldiMehendiCarnival: React.FC = () => {
                 }
             `}</style>
             <div className='bg-[#f6f4f1]'>
-                <section className="relative flex mb-[50px] pt-20 sm:pt-32 items-center justify-center">
+                <section id="haldi-mehendi-carnival" className="relative flex mb-[50px] pt-20 sm:pt-32 items-center justify-center">
                     <h1 className='absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-[40%] tracking-[-8px] sm:tracking-[-10px] text-[30px] sm:text-[120px] font-medium text-[#242424] opacity-[0.04]'>
                         Haldi/Mehendi/Carnival
                     </h1>
@@ -216,7 +214,7 @@ const HaldiMehendiCarnival: React.FC = () => {
                     >
                         <h4 className="text-[30px] mt-0 mb-[0.5rem] font-medium text-black">Haldi/Mehendi/Carnival</h4>
                         <p className="font-regular tracking-[-0.56px] text-justify text-black">
-                        Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                            Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                         </p>
                     </div>
                     <div
